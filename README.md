@@ -38,16 +38,9 @@ Build an AI Assistant that:
   - Provide helpful, human-readable responses.
 
 # 📃 Demo Screenshots
-
-### Main Page
-
-![Main Page](photo/Screenshot 2025-05-16 172741.png)
-
-### Answer Questions
-
-![Answer Questions](photo/Screenshot 2025-05-16 172751.png)
-
-![Answer Questions](photo/Screenshot 2025-05-16 172803.png)
+![Screenshot 2025-05-16 172741](https://github.com/user-attachments/assets/305326fc-a500-4c41-adb9-c9fdf7944ee3)
+![Screenshot 2025-05-16 172751](https://github.com/user-attachments/assets/5330dd3d-980f-4655-b156-60e3efe17f88)
+![Screenshot 2025-05-16 172803](https://github.com/user-attachments/assets/2d7b5b5d-7fe3-412c-b6e5-78e5a2865d85)
 
 # 🔧 Requirements
 
