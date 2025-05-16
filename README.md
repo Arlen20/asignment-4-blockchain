@@ -44,36 +44,10 @@ Build an AI Assistant that:
 
 # 🔧 Requirements
 
-1. Install Dependecies
-
-```bash
- pip install -r requirements.txt
-```
-
-2. Run Ollama
-
-```bash
- ollama run llama3
-```
-
-3. Run Streamlit
+ Run Streamlit
 
 ```bash
  streamlit run main.py
-```
-
-# 📁 File Structure
-
-```bash
-ai-crypto-assistant/
-│
-├── app.py                # Main Streamlit app
-├── news_api.py           # News data fetching
-├── price_api.py          # Exchange price data
-├── market_api.py         # CoinGecko market data
-├── ollama_chat.py        # Handles LLM communication
-├── requirements.txt
-└── README.md
 ```
 
 ## License
