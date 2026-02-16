@@ -42,24 +42,23 @@ Examples:
 - Streamlit
 - (Optional) Ollama for AI summaries
 
-Install dependencies:
-```bash
+##Install dependencies:
+```
 pip install -r requirements.txt
 ▶️ Run Locally
 Start the Streamlit app:
-
 streamlit run main.py
-Open in browser:
 
+##Open in browser:
 http://localhost:8501
 
-🤖 Ollama Setup (Optional but recommended)
-Install Ollama and pull a light model (recommended):
+##🤖 Ollama Setup (Optional but recommended)
+Install Ollama and pull (recommended):
 
-ollama pull phi3:mini
+ollama pull llama3
 If you use another model, update it in ollama_chat.py (default model=).
 
-📌 Notes / Limitations
+##📌 Notes / Limitations
 Supported coins may be limited to a predefined list in the code (Binance symbol mapping)
 
 If Ollama is not installed, AI summaries will not work (data fetching can still work depending on your setup)
