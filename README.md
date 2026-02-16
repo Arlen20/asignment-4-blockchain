@@ -47,7 +47,7 @@ Examples:
 
 # ▶️ Run Locally
 Start the Streamlit app:
-streamlit run main.py
+- streamlit run main.py
 
 ## Open in browser:
 http://localhost:8501
@@ -55,7 +55,7 @@ http://localhost:8501
 ## 🤖 Ollama Setup (Optional but recommended)
 Install Ollama and pull (recommended):
 
-ollama pull llama3
+- ollama pull llama3
 If you use another model, update it in ollama_chat.py (default model=).
 
 ## 📌 Notes / Limitations
