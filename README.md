@@ -56,6 +56,7 @@ http://localhost:8501
 Install Ollama and pull (recommended):
 
 - ollama pull llama3
+
 If you use another model, update it in ollama_chat.py (default model=).
 
 ## 📌 Notes / Limitations
